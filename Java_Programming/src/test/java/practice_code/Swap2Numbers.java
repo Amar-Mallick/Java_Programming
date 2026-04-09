@@ -10,6 +10,19 @@ public class Swap2Numbers {
 		b=a-b; //30-20=10
 		a=a-b;//30-10=20
 		System.out.println("After swapping value of a & b is :" + a +"  & " + b);
+		// Method -02 >>> Using X & / Operators..
+		int c=10,d=20;
+		c= c*d;//10x20=200
+		d=c/d;//200/20=10
+		c=c/d;//200/10=20
+		System.out.println( "c :=" + c +" & " + "d := "+  d);
+		//Method -03 >>> Using 3rd variables.............
+		int x=30,y=40;
+		int z= x;
+		x=y;
+		y=z;
+		System.out.println("X value is :"+ x + "  y value is :"+ y);
+		
 
 	}
 
