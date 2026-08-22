@@ -1,6 +1,6 @@
 package chapter_01_Basics;
 
-public class Topic_01_Datatypes {
+public class Class_02_Variables {
 
 	public static void main(String[] args) {
 		// DataType:- It's work like a container where we stores the data.

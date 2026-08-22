@@ -1,6 +1,6 @@
 package chapter_01_Basics;
 
-public class FirstJavaProgramme {
+public class Class_01_FirstJavaProgramme {
 
 	public static void main(String[] args) {
 		// First code write using Java Programming Language..
