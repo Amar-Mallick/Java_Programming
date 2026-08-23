@@ -1,4 +1,4 @@
-package practice_code;
+package most_ask_questions;
 
 public class FindSmallestOf3Numbers {
 
