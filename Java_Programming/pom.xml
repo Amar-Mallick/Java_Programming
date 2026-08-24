@@ -3,4 +3,8 @@
   <groupId>JP</groupId>
   <artifactId>Java_Programming</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  <maven.compiler.source>21</maven.compiler.source>
+  <maven.compiler.target>21</maven.compiler.target>
+  </properties>
 </project>
